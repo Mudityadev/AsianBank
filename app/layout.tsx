@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AsianBank | Crypto Banking & Betting",
+  title: "AstraX | Crypto Banking & Betting",
   description:
-    "Experience high-yield crypto banking fused with regulated online betting. AsianBank unifies digital finance, trading, and gaming into a single secure platform.",
+    "Experience high-yield crypto banking fused with regulated online betting. AstraX unifies digital finance, trading, and gaming into a single secure platform.",
 };
 
 export default function RootLayout({

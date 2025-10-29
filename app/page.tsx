@@ -65,7 +65,7 @@ const markets = [
 
 const steps = [
   {
-    title: "Create your AsianBank ID",
+    title: "Create your AstraX ID",
     description: "Verify once, unlock banking, betting, and rewards with a single ultra-secure identity wallet.",
   },
   {
@@ -82,7 +82,7 @@ const steps = [
 const testimonials = [
   {
     quote:
-      "AsianBank replaced three separate platforms. Our crypto treasury now grows while our traders lock in spreads in real time.",
+      "AstraX replaced three separate platforms. Our crypto treasury now grows while our traders lock in spreads in real time.",
     name: "Aria Chen",
     role: "Managing Partner, Nova Syndicate",
   },
@@ -101,10 +101,10 @@ export default function Home() {
       <header className="mx-auto flex w-full max-w-6xl items-center justify-between gap-8 px-6 py-8">
         <div className="flex items-center gap-3">
           <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 text-xl font-semibold">
-            AB
+            AX
           </div>
           <div>
-            <p className="text-lg font-semibold">AsianBank</p>
+            <p className="text-lg font-semibold">AstraX</p>
             <p className="text-sm text-white/60">Crypto Banking & Betting Exchange</p>
           </div>
         </div>
@@ -146,8 +146,8 @@ export default function Home() {
                 Grow your crypto. Predict every market. Win without leaving your bank.
               </h1>
               <p className="text-lg text-white/70">
-                AsianBank fuses high-yield crypto banking with the thrill of a fully licensed betting exchange. Auto-compound
-                your holdings while executing bets, hedges, and payouts from a single beautifully designed dashboard.
+                AstraX fuses high-yield crypto banking with the thrill of a fully licensed betting exchange. Auto-compound your
+                holdings while executing bets, hedges, and payouts from a single beautifully designed dashboard.
               </p>
             </div>
             <div className="flex flex-col gap-4 sm:flex-row">
@@ -206,7 +206,7 @@ export default function Home() {
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <Badge variant="outline" className="w-fit border-indigo-400/40 text-indigo-200">
-                Why AsianBank
+                Why AstraX
               </Badge>
               <h2 className="mt-4 text-3xl font-semibold tracking-tight sm:text-4xl">
                 Banking-grade trust, exchange-level thrills
@@ -245,7 +245,7 @@ export default function Home() {
               hit.
             </p>
             <div className="rounded-3xl border border-emerald-400/20 bg-emerald-500/10 p-6 text-sm text-emerald-100">
-              "AsianBank gave our trading desk the ability to pivot from delta-neutral strategies to live market exposure in seconds
+              "AstraX gave our trading desk the ability to pivot from delta-neutral strategies to live market exposure in seconds
               — without moving funds off platform."
               <p className="mt-3 text-xs uppercase tracking-wide text-emerald-200/70">
                 — Quant Strategy Team, Helios Markets
@@ -303,7 +303,7 @@ export default function Home() {
               Client success
             </Badge>
             <h2 className="text-3xl font-semibold tracking-tight sm:text-4xl">
-              Teams growing faster with AsianBank
+              Teams growing faster with AstraX
             </h2>
             <p className="text-sm text-white/60">
               We partner with elite crypto funds, pro betting syndicates, and leading esports organizations to deliver always-on
@@ -343,18 +343,18 @@ export default function Home() {
             Ready to merge your bank and betting edge?
           </h2>
           <p className="max-w-2xl text-sm text-white/60">
-            Join AsianBank to access secure custody, institutional-grade liquidity, and a next-generation betting exchange under one
+            Join AstraX to access secure custody, institutional-grade liquidity, and a next-generation betting exchange under one
             roof.
           </p>
           <div className="flex flex-col gap-4 sm:flex-row">
             <Button size="lg" className="text-base">
-              Create your AsianBank ID
+              Create your AstraX ID
             </Button>
             <Button size="lg" variant="outline" className="text-base">
               Talk to an expert
             </Button>
           </div>
-          <p className="text-xs text-white/50">© {new Date().getFullYear()} AsianBank. All rights reserved.</p>
+          <p className="text-xs text-white/50">© {new Date().getFullYear()} AstraX Labs. All rights reserved.</p>
         </div>
       </footer>
     </div>
